@@ -1,3 +1,7 @@
-# short-lnk
+# Short-Lnk
 
-This is the Short Link application
+This is a link shortener built on Meteor and React
+
+## Authors
+
+Kaeland Chatman
