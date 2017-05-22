@@ -12,6 +12,7 @@
     "prop-types": "^15.5.10",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
+    "react-flip-move": "^2.7.4",
     "react-modal": "^1.6.5",
     "shortid": "^2.2.6",
     "simpl-schema": "0.0.3"
